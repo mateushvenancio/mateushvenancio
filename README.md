@@ -5,10 +5,10 @@ Meu nome é Mateus e esses são meus projetos:
 ##### 🍅 Pomodoro Timer
 Relógio pomodoro feito em Flutter.
 
-&nbsp;
+
 [Repositório](https://github.com/mateushvenancio/pomodoro_timer)
 
-&nbsp;
+
 [Store](https://play.google.com/store/apps/details?id=br.com.mateusvenancio.pomodoro_timer)
 
 =======================================

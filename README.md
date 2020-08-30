@@ -11,8 +11,8 @@ Relógio pomodoro feito em Flutter.
 
 [Store](https://play.google.com/store/apps/details?id=br.com.mateusvenancio.pomodoro_timer)
 
-=======================================
 
+---
 
 
 <!--

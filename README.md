@@ -8,11 +8,17 @@ Relógio pomodoro feito em Flutter.
 
 [Repositório](https://github.com/mateushvenancio/pomodoro_timer)
 
-
-[Store](https://play.google.com/store/apps/details?id=br.com.mateusvenancio.pomodoro_timer)
+ [Store](https://play.google.com/store/apps/details?id=br.com.mateusvenancio.pomodoro_timer)
 
 
 ---
+
+
+##### ⚡ Pokédex
+Consumindo API RESTful com Flutter.
+
+
+[Repositório](https://github.com/mateushvenancio/pokedex)
 
 
 <!--

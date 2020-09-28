@@ -21,3 +21,13 @@ Consumindo JSON com Flutter.
 - MobX
 
 [Repositório](https://github.com/mateushvenancio/pokedex)
+
+
+### 🎵 My Top Tracks
+Consumindo API do Spotify com OAuth.
+- Flutter Modular
+- UniLinks
+- MobX
+- Autenticação OAuth
+
+[Repositório](https://github.com/mateushvenancio/mytoptracks)

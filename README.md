@@ -1,33 +1,29 @@
-# Bem vindo! 👋
+# Hi! Welcome! 👋
 
-[![](https://img.shields.io/badge/Change%20to-English-brightgreen)](https://github.com/mateushvenancio/mateushvenancio/blob/master/README-eng.md)
+I'm Mateus Venâncio, I'm from Brazil and I love Metallica, The Legend of Zelda and Doctor Who.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mateushvenancio&show_icons=true&theme=radical)](https://github.com/mateushvenancio/)
+#### About me
 
-# Flutter
+I'm a brazilian programming student based in Minas Gerais. You can find some of my projects here. Actually studying Flutter, Angular (including HTML, CSS and JS), .NET, and other stuff I like.
 
-### 🍅 Pomodoro Timer
-Relógio Pomodoro feito em Flutter.
-- Flutter Modular
-- MobX
+#### Network
 
-[Repositório](https://github.com/mateushvenancio/pomodoro_timer) |
-[Store](https://play.google.com/store/apps/details?id=br.com.mateusvenancio.pomodoro_timer)
+✉ m.h.v@msn.com  
+🌐 [My Website](https://www.mateusvenancio.com.br)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mateushvenancio/)
 
+# ⚡ Repositories
 
-### ⚡ Pokédex
-Consumindo JSON com Flutter.
-- Flutter Modular
-- MobX
+Some of the things im studying.
 
-[Repositório](https://github.com/mateushvenancio/pokedex)
+### Flutter 💙
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=pomodoro_timer)](https://github.com/mateushvenancio/pomodoro_timer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=pokedex)](https://github.com/mateushvenancio/pokedex)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=mytoptracks)](https://github.com/mateushvenancio/mytoptracks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=appetit)](https://github.com/mateushvenancio/appetit)
 
-### 🎵 My Top Tracks
-Consumindo API do Spotify com OAuth.
-- Flutter Modular
-- UniLinks
-- MobX
-- Autenticação OAuth
+# 📈 Stats
 
-[Repositório](https://github.com/mateushvenancio/mytoptracks)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mateushvenancio&show_icons=true&theme=tokyonight)](https://github.com/mateushvenancio/)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177547293&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)

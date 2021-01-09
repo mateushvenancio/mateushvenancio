@@ -23,6 +23,10 @@ Some of the things im studying.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=mytoptracks)](https://github.com/mateushvenancio/mytoptracks)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=appetit)](https://github.com/mateushvenancio/appetit)
 
+## Angular ❤
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=mateusvenanciong)](https://github.com/mateushvenancio/mateusvenanciong)
+
 # 📈 Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mateushvenancio&show_icons=true&theme=tokyonight)](https://github.com/mateushvenancio/)

@@ -16,14 +16,14 @@ I'm a brazilian programming student based in Minas Gerais. You can find some of 
 
 Some of the things im studying.
 
-### Flutter 💙
+### Flutter
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=pomodoro_timer)](https://github.com/mateushvenancio/pomodoro_timer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=pokedex)](https://github.com/mateushvenancio/pokedex)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=mytoptracks)](https://github.com/mateushvenancio/mytoptracks)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=appetit)](https://github.com/mateushvenancio/appetit)
 
-## Angular ❤
+### Angular
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=mateusvenanciong)](https://github.com/mateushvenancio/mateusvenanciong)
 

@@ -26,6 +26,7 @@ Some of the things im studying.
 ### Angular
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=mateusvenanciong)](https://github.com/mateushvenancio/mateusvenanciong)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=mateusvenanciong2)](https://github.com/mateushvenancio/mateusvenanciong2)
 
 # 📈 Stats
 

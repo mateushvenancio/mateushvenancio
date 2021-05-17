@@ -4,7 +4,7 @@ I'm Mateus Venâncio, I'm from Brazil and I love Metallica, The Legend of Zelda 
 
 #### About me
 
-I'm a brazilian programming student based in Minas Gerais. You can find some of my projects here. Actually studying Flutter, Angular (including HTML, CSS and JS), .NET, and other stuff I like.
+I'm a brazilian programming student based in Minas Gerais. You can find some of my projects here. Currently working with Flutter, React, Node, and other random stuff.
 
 #### Network
 

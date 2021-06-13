@@ -16,8 +16,7 @@ I'm a brazilian programming student based in Minas Gerais. You can find some of 
         "Flutter",
         "Node.js",
         "React.js",
-        "MongoDb",
-        "Angular"
+        "MongoDb"
     ],
     "tools": [
         "Visual Studio Code",

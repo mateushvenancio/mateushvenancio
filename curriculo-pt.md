@@ -40,8 +40,8 @@ Lorem ipsum dolor sit amet.
 
 
 ### Educação
-- Centro Universitário de Patos de Minas (2015 - 2020)
-Graduação em Sistemas de Informação
+- Centro Universitário de Patos de Minas (2015 - 2020) •
+  Graduação em Sistemas de Informação
 
 ### Idiomas
 - Inglês (Avançado)

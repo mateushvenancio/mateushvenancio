@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet.
 
 ### Experiência
 
-### Dev Flutter Pleno @ Basis Tecnologia (Abr 2022 - Atual)
+#### Dev Flutter Pleno @ Basis Tecnologia (Abr 2022 - Atual)
 - Desenvolver e manter aplicações Flutter
 - Planejar as melhores arquiteturas para as aplicações
 - Distribuir as aplicações na Play Store e App Store

@@ -2,7 +2,9 @@
 
 ## About me
 
-I'm a brazilian programming student based in Minas Gerais. You can find some of my projects here. Currently working with Flutter, React, Node, and other stuff.
+I'm a brazilian software developer based in Minas Gerais. You can find some of my projects here. Currently working with Flutter and other stuff. Feel free to contact me also!
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177547293&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12177547293&redirect=true)
 
 ```json
 {
@@ -13,9 +15,8 @@ I'm a brazilian programming student based in Minas Gerais. You can find some of 
         "state": "Minas Gerais"
     },
     "stack": [
-        "Flutter",
-        "Node.js",
-        "React.js",
+        "Flutter", 
+        "Node.js", 
         "MongoDb"
     ],
     "tools": [
@@ -26,29 +27,12 @@ I'm a brazilian programming student based in Minas Gerais. You can find some of 
 }
 ```
 
-
-
-## Network
-<br>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/mateushvenancio/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/mateushvenancio">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-
-
-</p>
-
 ## Stats
 
 <p align='center'>
-<!-- <a href="#"><img src="https://badges.pufler.dev/visits/mateushvenancio/mateushvenancio"></a> -->
-<a href="#"><img src="https://badges.pufler.dev/years/mateushvenancio"></a>
-<a href="#"><img src="https://badges.pufler.dev/commits/all/mateushvenancio"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mateushvenancio&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mateushvenancio&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<p align=center>
+
 </p>

@@ -2,8 +2,6 @@
 
 ## About me
 
-I'm a brazilian software developer based in Minas Gerais. You can find some of my projects here. Currently working with Flutter and other stuff. Feel free to contact me also!
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177547293&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12177547293&redirect=true)
 
 ```json

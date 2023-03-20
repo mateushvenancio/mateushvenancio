@@ -72,11 +72,11 @@ My name is **Mateus Venâncio**, I live in Minas Gerais - Brazil, and I am a hig
 <a href="https://github.com/mateushvenancio/toptracks"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mateushvenancio&repo=toptracks&theme=vue"></a>
 </p> -->
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<p align="center">Contact</p>
+<!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> -->
+**<p align="center">Contact</p>**
 <p align="center">
-<a href="https://www.linkedin.com/in/mateushvenancio/"><img src="https://img.icons8.com/color/48/null/linkedin.png" width="35"/></a>
-<a href="https://discord.com/users/Ven%C3%A2ncio#2113"><img src="https://img.icons8.com/color/96/null/discord-logo.png" width="35"/>
-<a href="https://stackoverflow.com/users/12521312/mateus-ven%c3%a2ncio"><img src="https://img.icons8.com/color/96/null/stackoverflow.png" width="35"/></a>
-<a href="mailto:contato@mateusvenancio.com.br"><img src="https://img.icons8.com/color/96/null/gmail--v1.png" width="35"/></a>
+<a href="https://www.linkedin.com/in/mateushvenancio/"><img src="https://img.icons8.com/color/48/null/linkedin.png" width="40"/></a>
+<a href="https://discord.com/users/Ven%C3%A2ncio#2113"><img src="https://img.icons8.com/color/96/null/discord-logo.png" width="40"/>
+<a href="https://stackoverflow.com/users/12521312/mateus-ven%c3%a2ncio"><img src="https://img.icons8.com/color/96/null/stackoverflow.png" width="40"/></a>
+<a href="mailto:contato@mateusvenancio.com.br"><img src="https://img.icons8.com/color/96/null/gmail--v1.png" width="40"/></a>
 </p>
